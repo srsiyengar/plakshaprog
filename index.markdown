@@ -5,5 +5,5 @@
 layout: home
 ---
 
-This is a homepage for the course **Introduction to Programming**. The most important document is the [handbook](/plaksha/handbook/). Ensure that you read this document completely. Note that the [FAQ](/plaksha/faq/) section of the handbook will keep growing, Make sure you look it up once in a while.  
+This is a homepage for the course **Introduction to Programming**. The most important document is the [handbook](/plakshaprog/handbook/). Ensure that you read this document completely. Note that the [FAQ](/plakshaprog/faq/) section of the handbook will keep growing, Make sure you look it up once in a while.  
 

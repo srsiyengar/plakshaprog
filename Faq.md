@@ -8,7 +8,7 @@ order: 2
 
 **What if I am unable to make it to a class?**
 
-It is important that you dont miss the class. We expect 100% attendance and we incentivise you to come to the class by providing you with the performance points. 
+It is important that you dont miss the class. We expect 100% attendance and we incentivise you to come to the class by rewarding you with the performance points. 
 
 **I wasn't keeping well and I couldn't manage to attend the class. Can I please not lose my _PP_ ?**
 

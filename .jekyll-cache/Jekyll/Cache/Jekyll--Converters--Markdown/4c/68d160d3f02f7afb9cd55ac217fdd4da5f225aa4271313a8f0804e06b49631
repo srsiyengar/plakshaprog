@@ -1,0 +1,75 @@
+I"E<ul id="markdown-toc">
+  <li><a href="#chapter-1-warming-up-with-basics" id="markdown-toc-chapter-1-warming-up-with-basics">Chapter 1: Warming up with Basics</a></li>
+</ul>
+
+<h1 id="chapter-1-warming-up-with-basics">Chapter 1: Warming up with Basics</h1>
+<ol>
+  <li>Use the python <code class="language-plaintext highlighter-rouge">print</code> command and figure out ways in which you can display things on the terminal.</li>
+  <li>Ask the user to enter a number and check if the number is even or od..</li>
+  <li>Enter a number and check if it is prime or not.</li>
+  <li>Create a list and append the first <code class="language-plaintext highlighter-rouge">n</code> natural numbers to it.</li>
+  <li>Input integers <code class="language-plaintext highlighter-rouge">i</code> and <code class="language-plaintext highlighter-rouge">j</code> and create a list comprising of all prime numbers between them.</li>
+  <li>Print the following using four print statements:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*
+**
+***
+****
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Figure out how to input a number and display it using print statement.</p>
+  </li>
+  <li>Observe the following code :
+    <ul>
+      <li>What does the following code do:
+        <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="s">"Enter a number"</span><span class="p">)</span>
+<span class="n">k</span><span class="o">=</span><span class="nb">input</span><span class="p">()</span>
+<span class="n">k</span><span class="o">=</span><span class="nb">int</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">k</span><span class="p">):</span>
+   <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">i</span><span class="p">):</span>
+   <span class="k">print</span><span class="p">(</span><span class="s">"*"</span><span class="p">,</span><span class="n">end</span><span class="o">=</span><span class="s">' '</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="s">""</span><span class="p">)</span>
+</code></pre></div>        </div>
+      </li>
+      <li>Something is wrong in this code. Fix it!</li>
+    </ul>
+  </li>
+  <li>Write a script to print the following:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Input a number: 5
+Output: 
+    *
+   ***
+  *****
+ *******
+*********
+</code></pre></div>    </div>
+  </li>
+  <li>Write a script to print the following zig zag:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*
+  *
+    *
+      *
+        * 
+      *
+    *
+  *
+*
+  *
+    *
+      *
+        *
+      *
+    * 
+  *
+*
+</code></pre></div>    </div>
+    <p>Input parameters: <code class="language-plaintext highlighter-rouge">number of lines</code>, <code class="language-plaintext highlighter-rouge">inclination</code>, <code class="language-plaintext highlighter-rouge">number of stars per stick</code><br />
+Note: Input parameters are <em>self-explanatory</em>, <code class="language-plaintext highlighter-rouge">inclination</code> is a value between <code class="language-plaintext highlighter-rouge">0</code> and <code class="language-plaintext highlighter-rouge">1</code>. Lesser the inclination, more vertical the stick.</p>
+  </li>
+</ol>
+
+<blockquote>
+  <p><strong>Assignment:</strong> Watch <a href="https://www.youtube.com/watch?v=JA_70M-ma-k">this video</a> and write a piece of code to solve this problem.</p>
+</blockquote>
+
+:ET

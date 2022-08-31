@@ -1,0 +1,70 @@
+I"6
+<ul id="markdown-toc">
+  <li><a href="#chapter-1-the-basics" id="markdown-toc-chapter-1-the-basics">Chapter 1: The Basics</a></li>
+</ul>
+
+<h1 id="chapter-1-the-basics">Chapter 1: The Basics</h1>
+<ol>
+  <li>Use the python <code class="language-plaintext highlighter-rouge">print</code> command and figure out ways in which you can display things on the terminal.</li>
+  <li>Print the following using four print statements:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*
+**
+***
+****
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Figure out how to input a number and display it using print statement.</p>
+  </li>
+  <li>Observe the following code :
+    <ul>
+      <li>What does the following code do:
+        <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="s">"Enter a number"</span><span class="p">)</span>
+<span class="n">k</span><span class="o">=</span><span class="nb">input</span><span class="p">()</span>
+<span class="n">k</span><span class="o">=</span><span class="nb">int</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">k</span><span class="p">):</span>
+   <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">i</span><span class="p">):</span>
+   <span class="k">print</span><span class="p">(</span><span class="s">"*"</span><span class="p">,</span><span class="n">end</span><span class="o">=</span><span class="s">' '</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="s">""</span><span class="p">)</span>
+</code></pre></div>        </div>
+      </li>
+      <li>Something is wrong in this code. Fix it!</li>
+    </ul>
+  </li>
+  <li>Write a script to print the following:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Input a number: 5
+Output: 
+    *
+   ***
+  *****
+ *******
+*********
+</code></pre></div>    </div>
+  </li>
+  <li>Write a script to print the following zig zag:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*
+  *
+    *
+      *
+        * 
+      *
+    *
+  *
+*
+ *
+             *
+*
+    *
+      *
+        * 
+      *
+    *
+  *
+*
+ *
+*
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+:ET

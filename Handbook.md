@@ -63,9 +63,9 @@ Where _PP_ stands for _Performance Points_ and _Total_ is the marks secured from
 | Type |  |Marks|
 |--|--|--|
 |Theory Internals|Involves theory related grading: quiz and written assignments|10|
-|Theory Externals|Mid term and Final Theory Exam|10 + 25|
+|Theory Externals|Final Theory Exam|35|
 |Lab Internals|Grading based on lab performance and viva voce|10|
-|Lab Externals|Mid Term and Final Lab Exam|10 + 25|
+|Lab Externals|Final Lab Exam|35|
 |Final Project||10|
 
 

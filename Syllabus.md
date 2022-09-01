@@ -17,7 +17,7 @@ The following syllabus is only indicative of the topics we will be covering. We 
 |7 | Welcome to this Function|
 |8 | Recursively Viscious Life|
 |9 | File a Case and a Case from a File| 
-|10| OOPS: Feel free to Objectify|
+|10| OOPS: Feel free to Objectify...|
 
 Click [here]({% github_edit_link %}) to edit this page. 
 

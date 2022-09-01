@@ -19,6 +19,8 @@ The following syllabus is only indicative of the topics we will be covering. We 
 |9 | File a Case and a Case from a File| 
 |10| OOPS: Feel free to Objectify|
 
+Click [here]({% github_edit_link %}) to edit this page. 
+
 
 
 

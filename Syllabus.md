@@ -20,6 +20,8 @@ The following syllabus is only indicative of the topics we will be covering. We 
 |10| OOPS: Feel free to Objectify|
 
 
+[Edit]({% guthub_edit_link %}) this page. 
+
 
 
 
